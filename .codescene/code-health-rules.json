@@ -21,7 +21,11 @@
     }, {
       "name" : "Primitive Obsession",
       "weight" : 0.0      
-    } ]
+    } ,
+  {
+      "name" : "Duplicated Assertion Blocks",
+      "weight" : 0.0
+    }]
   }
 ]
 }
